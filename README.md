@@ -1,6 +1,6 @@
 <h1 align="center">WhatsApp Receptionist</h1>
 
-## Screenshots
+## Summary
 
 ### Booking flow
 A client books a dental cleaning in natural language. The bot checks real-time availability, presents open slots, and confirms the appointment in Google Calendar.
