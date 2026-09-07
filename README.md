@@ -1,30 +1,4 @@
-<h1 align="center">WhatsApp AI Receptionist</h1>
-
-**Your clients are messaging you on WhatsApp anyway. This bot answers them.**
-
-Service businesses -- dentists, nutritionists, physiotherapists, salons -- lose bookings because nobody picks up the phone at 11pm. Clients message on WhatsApp, get no reply, and book elsewhere. The AI receptionist handles the conversation, checks real-time availability, and books directly into Google Calendar. No app to install, no portal to learn. Just WhatsApp.
-
-![Python](https://img.shields.io/badge/Python-3.12+-blue)
-![Tests](https://github.com/martin-minghetti/whatsapp-ai-receptionist/actions/workflows/tests.yml/badge.svg)
-![License](https://img.shields.io/badge/license-MIT-green)
-
----
-
-## What it does
-
-| Capability | How |
-|---|---|
-| **Conversational booking** | Natural language via WhatsApp, powered by Claude |
-| **Real-time availability** | Google Calendar integration with slot locking |
-| **Full lifecycle** | Create, cancel, and modify appointments |
-| **Voice messages** | Audio transcribed via OpenAI Whisper |
-| **Smart dates** | "tomorrow", "next Wednesday", "next week" resolved to real dates |
-| **Reminders** | Automated WhatsApp messages 24h before appointments |
-| **Payments** | Optional Mercado Pago integration with checkout links |
-| **Multi-client ready** | YAML config + knowledge base per business, no code changes |
-| **Resilient state** | Redis in production, in-memory fallback for development |
-
----
+<h1 align="center">WhatsApp Receptionist</h1>
 
 ## Screenshots
 
